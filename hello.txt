@@ -1,2 +1,6 @@
 Hello Sahil
+<<<<<<< HEAD
 user 2 registration
+=======
+user 1 login
+>>>>>>> 93c20f63de4db8abbdbbc84c23fff39a95394114
